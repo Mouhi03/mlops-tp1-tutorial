@@ -2,7 +2,7 @@
 
 > **Cours :** 51ASD — Déploiement d'IA (2026-2027)
 > **Filière :** 5IASD
-> **Auteur :** Mouhi
+> **Auteur :** Mouhieddine Bouktib et Ahlam Assamsadi
 > **Groupe :** Gx
 
 ---
@@ -300,7 +300,7 @@ git push
 
 ## 👨‍💻 Auteur
 
-**Mouhi — 5IASD, Groupe G6**
+**Mouhieddine Bouktib et Ahlam Assamsadi — 5IASD, Groupe G6**
 
 Projet académique — EMSI
 Module **51ASD — Déploiement d'IA**
