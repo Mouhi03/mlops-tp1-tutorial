@@ -3,7 +3,7 @@
 > **Cours :** 51ASD — Déploiement d'IA (2026-2027)
 > **Filière :** 5IASD
 > **Auteur :** Mouhieddine Bouktib et Ahlam Assamsadi
-> **Groupe :** Gx
+> **Groupe :** G6
 
 ---
 
