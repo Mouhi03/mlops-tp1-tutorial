@@ -1,15 +1,19 @@
-# Ignore active Python runtime environments and packages
+# Python environments
 .conda/
 env/
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
 
-# Block data and binary model payloads from bloated commits
+# Data
 data/
+
+# Machine learning models
 models/
 *.pkl
 *.h5
 
-# Hide internal local workspace config preferences
+# VS Code
 .vscode/

@@ -1,7 +1,9 @@
-name: mloqs_base_env
+name: mlops_base_env
+
 channels:
   - defaults
   - conda-forge
+
 dependencies:
   - python=3.10
   - pip
@@ -9,4 +11,4 @@ dependencies:
   - pandas
   - scikit-learn
   - pip:
-    - python-dotenv
+      - python-dotenv
